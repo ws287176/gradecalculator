@@ -1,0 +1,15 @@
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\bin\Debug\net7.0\gradecalculator.exe
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\bin\Debug\net7.0\gradecalculator.deps.json
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\bin\Debug\net7.0\gradecalculator.runtimeconfig.json
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\bin\Debug\net7.0\gradecalculator.dll
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\bin\Debug\net7.0\gradecalculator.pdb
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\obj\Debug\net7.0\gradecalculator.csproj.AssemblyReference.cache
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\obj\Debug\net7.0\gradecalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\obj\Debug\net7.0\gradecalculator.AssemblyInfoInputs.cache
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\obj\Debug\net7.0\gradecalculator.AssemblyInfo.cs
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\obj\Debug\net7.0\gradecalculator.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\obj\Debug\net7.0\gradecalculator.dll
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\obj\Debug\net7.0\refint\gradecalculator.dll
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\obj\Debug\net7.0\gradecalculator.pdb
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\obj\Debug\net7.0\gradecalculator.genruntimeconfig.cache
+C:\Users\emily\OneDrive\Documents\project\gradecalculator\obj\Debug\net7.0\ref\gradecalculator.dll
